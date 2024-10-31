@@ -34,7 +34,7 @@ GitHub：[https://github.com/Kemiaojun/kemiaofx](https://github.com/Kemiaojun/ke
 
 Gitee：[https://gitee.com/kemiaoshiwo/kemiaodfx](https://gitee.com/kemiaoshiwo/kemiaodfx)
 
-免翻主页：[https://Kemiaojun.github.io/](https://Kemiaojun.github.io/)
+主页：[https://Kemiaojun.github.io/](https://Kemiaojun.github.io/)
 
 ## 下载地址：
 
