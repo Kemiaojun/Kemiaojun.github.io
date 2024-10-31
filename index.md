@@ -9,7 +9,7 @@ excerpt: "Ke Miao[克喵](https://github.com/Kemiaojun/kemiaofx) 这个项目，
 
 Ke Miao[克喵](https://github.com/Kemiaojun/kemiaofx) 这个项目，来源于我曾经寻找资源的迷茫，如今有了能力，我也希望能做这么一件事情起码证明自己进步了。
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/Kemiaojun/kemiaofx" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://ifdian.net/order/create?plan_id=585f8be8978211efbdc852540025c377&product_type=0&remark=" color="#f68140" %} {% include button.html text="Tweet it" icon="酷安" link="http://www.coolapk.com/u/28712393/?url=https://Kemiaojun.github,io&text=Kemiao%20-%20A%20Jekyll%20boilerplate%20theme&via=Ke Miao" color="#0d94e7" %} {% include button.html text="Gitee主页" link="https://gitee.com/kemiaoshiwo" %}
+{% include button.html text="Fork it" icon="github" link="https://github.com/Kemiaojun/kemiaofx" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://ifdian.net/order/create?plan_id=585f8be8978211efbdc852540025c377&product_type=0&remark=" color="#f68140" %} {% include button.html text="Ku an" icon="酷安" link="http://www.coolapk.com/u/28712393/?url=https://Kemiaojun.github,io&text=Kemiao%20-%20A%20Jekyll%20boilerplate%20theme&via=Ke Miao" color="#0d94e7" %} {% include button.html text="Gitee主页" link="https://gitee.com/kemiaoshiwo" %}
 
 # #克喵分享
 
