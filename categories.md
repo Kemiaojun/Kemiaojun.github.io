@@ -1,6 +1,6 @@
 ---
 title: 大纲
-layout: dagang
-excerpt: "dagang index"
+layout: categories
+excerpt: "categories index"
 aside: true
 ---

@@ -6,12 +6,12 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ke Miao"]
   spec.email         = ["aqwere123@163.com"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
+  spec.summary       = %q{克喵的一个致力于分享资源的网站。}
+  spec.description   = "克喵的一个致力于分享资源的网站。."
   spec.homepage      = "https://Kemiaojun.github.io"
   spec.license       = "MIT"
 
-  spec.metadata["plugin_type"] = "theme"
+  spec.metadata["plugin_type"] = "分享"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README|sw|manifest)}i) }
 
