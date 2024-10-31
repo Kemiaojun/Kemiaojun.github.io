@@ -1,15 +1,15 @@
 ---
-title: About Alembic
+title: Ke Miao
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Ke Miao
+  一个分享各自资源的网站，希望大家都能在这里找到想要的。
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Ke Miao[克喵](https://github.com/Kemiaojun/kemiaofx) 这个项目，来源于我曾经寻找资源的迷茫，如今有了能力，我也希望能做这么一件事情起码证明自己进步了。"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Ke Miao[克喵](https://github.com/Kemiaojun/kemiaofx) 这个项目，来源于我曾经寻找资源的迷茫，如今有了能力，我也希望能做这么一件事情起码证明自己进步了。
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Fork it" icon="github" link="https://github.com/Kemiaojun/kemiaofx" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://ifdian.net/order/create?plan_id=585f8be8978211efbdc852540025c377&product_type=0&remark=" color="#f68140" %} {% include button.html text="Tweet it" icon="酷安" link="http://www.coolapk.com/u/28712393/?url=https://Kemiaojun.github,io&text=Kemiao%20-%20A%20Jekyll%20boilerplate%20theme&via=Ke Miao" color="#0d94e7" %} {% include button.html text="Gitee主页" link="https://gitee.com/kemiaoshiwo" %}
 
 ## Features
 

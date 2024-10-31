@@ -1,80 +1,18 @@
 ---
-title: Elements
+title: 列表
 feature_text: |
-  A demo of Markdown and HTML includes
+  一个列表来记录小飞机云盘的软件
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "一个列表来记录小飞机云盘的软件"
 aside: true
 ---
 
-# Heading 1
 
-## Heading 2
+<small>克喵分享</small>
 
-### Heading 3
+[小飞机云盘总链接](https://share.feijipan.com/s/FQDHZYsk "小飞机云盘总链接")
 
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<small>A small element</small>
-
-[A link](https://david.darn.es "A link")
-
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
+我在总链接[小飞机云盘总链接]https://share.feijipan.com/s/FQDHZYsk "小飞机云盘总链接") 里上传了许多有用的软件，但我主攻安卓，Windows大多是网站，关于Windows的软件和iOS的相关资源，大家网盘里找不到可以在GitHub/邮箱：aqwere123@163.com 找我，我尽力找。
 
 ## HTML Includes
 
@@ -91,7 +29,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
 
 ``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
+{% raw %}{% include map.html id="1oS104hzzKDGheNn5e0W85auDdm87KW4" title="我所在的地方" %}{% endraw %}
 ```
 
 ### Button include
@@ -101,44 +39,16 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
 
 ``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
+{% raw %}{% include button.html text="酷安" link="http://www.coolapk.com/u/28712393" %}
+{% include button.html text="小绿书" link="http://www.coolapk.com/u/28712393" icon="酷安" %}
+
 ```
 
 ### Icon include
 
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+{% include icon.html id="酷安" title="酷安" %} [{% include icon.html id="jianshu" title="酷安" %}](http://www.coolapk.com/u/28712393)
 
 ``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
-
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
-
-
-### Image includes
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
-
-``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
+{% raw %}{% include icon.html id="酷安" title="酷安" %}
+[{% include icon.html id="jianshu" title="酷安" %}](http://www.coolapk.com/u/28712393){% endraw %}
 ```
