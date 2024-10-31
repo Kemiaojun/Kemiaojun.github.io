@@ -8,7 +8,7 @@ aside: true
 ---
 
 
-<small>克喵分享</small>
+<strong>[克喵分享](https://github.com/Kemiaojun/kemiaofx/blob/main/List.md)</strong>
 
 [小飞机云盘总链接](https://share.feijipan.com/s/FQDHZYsk "小飞机云盘总链接")
 
