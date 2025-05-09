@@ -22,9 +22,9 @@
     "rssSplit":"sentence",
     "bottomText":"转载请注明出处",
     "ogImage":"https://s2.loli.net/2025/04/20/V8zWaEoxP5msqNQ.jpg",
-    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "primerCSS":"<link href='https://source.314926.xyz/assets/primer.css' rel='stylesheet' />",
     "style":"<style>#postBody{font-size:20px}</style>",
-    "script":"<script src='https://github.com/Kemiaojun/Kemiaojun.github.io/static/assets/GmeekTOC.js'></script><script src='https://github.com/Kemiaojun/Kemiaojun.github.io/static/assets/lightbox.js'></script>",
-    "allHead":"<script src='https://github.com/Kemiaojun/Kemiaojun.github.io/static/assets/GmeekVercount.js'></script>",
+    "script":"<script src='https://source.314926.xyz/assets/GmeekTOC.js'></script><script src='https://source.314926.xyz/assets/lightbox.js'></script>",
+    "allHead":"<script src='https://source.314926.xyz/assets/GmeekVercount.js'></script>",
     "needComment":1
 }
