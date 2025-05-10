@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Sat, 10 May 2025 12:13:40 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>Umami博客访问统计Vercel+Cloudflare Wokers部署</title><link>https://Kemiaojun.github.io/post/Umami-bo-ke-fang-wen-tong-ji-Vercel%2BCloudflare%20Wokers-bu-shu.html</link><description>## 第一部分：Vercel+Umami
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Sat, 10 May 2025 12:25:11 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>Waline评论在Vercel部署</title><link>https://Kemiaojun.github.io/post/Waline-ping-lun-zai-Vercel-bu-shu.html</link><description>&gt; 使用Waline评论我喜欢使用的部署方法(个人认为最简便)
+
+## 所需账号
+1. 一个Github账号
+2. 一个Vercel账号
+3. 一个leancloud账号(最好是国际服的，你有了Github难道还用大陆的吗？大陆的要备案，故在这里不阐述，末尾放原文链接)
+
+---
+## 在 leancloud 里创建数据库
+
+1. [登录](https://console.leancloud.app/login) 或 [注册](https://console.leancloud.app/register) `LeanCloud 国际版` 并进入 [控制台](https://console.leancloud.app/apps)
+
+1. 点击左上角 [创建应用](https://console.leancloud.app/apps) 并起一个你喜欢的名字 (请选择免费的开发版):
+
+   ![创建应用](https://s2.loli.net/2025/04/14/7FOYbvS8MlQXe52.png)
+
+1. 进入应用，选择左下角的 `设置` &gt; `应用 Key`。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Waline-ping-lun-zai-Vercel-bu-shu.html</guid><pubDate>Sat, 10 May 2025 12:24:40 +0000</pubDate></item><item><title>Umami博客访问统计Vercel+Cloudflare Wokers部署</title><link>https://Kemiaojun.github.io/post/Umami-bo-ke-fang-wen-tong-ji-Vercel%2BCloudflare%20Wokers-bu-shu.html</link><description>## 第一部分：Vercel+Umami
 
 1. 第一步
     1.1 &lt;kbd&gt;Fork&lt;/kbd&gt;​[umami](https://github.com/umami-software/umami)到自己的Github仓库
