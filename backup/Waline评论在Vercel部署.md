@@ -20,7 +20,12 @@
 
 ---
 ## 在 Vercel 部署
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample)
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwalinejs%2Fwaline%2Ftree%2Fmain%2Fexample">
+    <img src="https://vercel.com/button" alt="Vercel deploy button" style="display: inline-block;">
+  </a>
+</div>
 
 1. 点击上方按钮，跳转至 Vercel 进行 Server 端部署。
 
@@ -125,11 +130,7 @@
 
 > UP 主：[rickroll 摇](https://space.bilibili.com/381992209)
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-          src="https://player.bilibili.com/player.html?isOutside=true&aid=603711299&bvid=BV1pB4y1E7fp&cid=851182849&p=1">
-  </iframe>
-</div>
+[![视频封面](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505102029290.jpg)](https://www.bilibili.com/video/BV1pB4y1E7fp/)
 
 ### 使用 Vercel 简单地部署 Waline 评论系统
 
