@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Sat, 10 May 2025 12:36:33 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>DROP：便捷大文件分享与托管网站，免费享10GB空间免费部署</title><link>https://Kemiaojun.github.io/post/DROP%EF%BC%9A-bian-jie-da-wen-jian-fen-xiang-yu-tuo-guan-wang-zhan-%EF%BC%8C-mian-fei-xiang-10GB-kong-jian-mian-fei-bu-shu.html</link><description>### 网站简介
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Fri, 16 May 2025 02:18:08 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>来将 Telegram 当音乐播放器吧！</title><link>https://Kemiaojun.github.io/post/lai-jiang-%20Telegram%20-dang-yin-le-bo-fang-qi-ba-%EF%BC%81.html</link><description>## 来将 Telegram 当音乐播放器吧！（寻找音乐、即时歌词、无损音乐不失真压缩）
+
+### 步骤一：到 [@music_v1bot](https://t.me/music_v1bot) 下载歌曲，并找到歌词
+
+　　*输入指令： /search （你想要的歌名）*
+
+![](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505151340118.jpg)
+
+### 步骤二：[下载 MT 管理器（点我）](https://telegra.ph/Mtmanager-02-10-2)
+
+&gt; ***&lt;u&gt;开启：下载好的歌词文件&lt;/u&gt;***
+
+![](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505151343982.jpg)
+
+### 步骤三：最右上角、搜索\&gt;勾选正则化，替换（全部替换）
+
+&gt; *输入：\[(\d{2}:\d{2})\.\d+\]*
+&gt;
+&gt; *替换：$1*
+
+`注意：'$1'后面要加一个空格(英文)。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/lai-jiang-%20Telegram%20-dang-yin-le-bo-fang-qi-ba-%EF%BC%81.html</guid><pubDate>Fri, 16 May 2025 02:17:44 +0000</pubDate></item><item><title>DROP：便捷大文件分享与托管网站，免费享10GB空间免费部署</title><link>https://Kemiaojun.github.io/post/DROP%EF%BC%9A-bian-jie-da-wen-jian-fen-xiang-yu-tuo-guan-wang-zhan-%EF%BC%8C-mian-fei-xiang-10GB-kong-jian-mian-fei-bu-shu.html</link><description>### 网站简介
 
 DROP 是一个便捷的文件分享与托管平台，云存储工具，提供免费10GB的存储空间，支持大文件的快速上传与分享。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/DROP%EF%BC%9A-bian-jie-da-wen-jian-fen-xiang-yu-tuo-guan-wang-zhan-%EF%BC%8C-mian-fei-xiang-10GB-kong-jian-mian-fei-bu-shu.html</guid><pubDate>Sat, 10 May 2025 12:36:06 +0000</pubDate></item><item><title>tgtalk免费部署</title><link>https://Kemiaojun.github.io/post/tgtalk-mian-fei-bu-shu.html</link><description>## 部署 API
 
