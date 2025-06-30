@@ -1,2 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Fri, 09 May 2025 10:46:53 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>Hello,World</title><link>https://Kemiaojun.github.io/post/Hello%2CWorld.html</link><description>Hello,World。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Hello%2CWorld.html</guid><pubDate>Fri, 09 May 2025 07:47:40 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cn.cravatar.com/avatar/1F6C8947D35A8186A1647009BA8BC5F2?size=256</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Mon, 30 Jun 2025 14:30:34 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>Markdown 换行语法</title><link>https://Kemiaojun.github.io/post/Markdown%20-huan-xing-yu-fa.html</link><description>
+&gt; 原文链接: https://markdown.com.cn/basic-syntax/line-breaks.html
+
+## Markdown 换行语法
+在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行(`&lt;br&gt;`)。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Markdown%20-huan-xing-yu-fa.html</guid><pubDate>Mon, 30 Jun 2025 14:18:12 +0000</pubDate></item><item><title>Markdown 段落语法</title><link>https://Kemiaojun.github.io/post/Markdown%20-duan-luo-yu-fa.html</link><description>&gt; 原文位置: https://markdown.com.cn/basic-syntax/paragraphs.html
+
+## Markdown 段落
+要创建段落，请使用空白行将一行或多行文本进行分隔。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Markdown%20-duan-luo-yu-fa.html</guid><pubDate>Mon, 30 Jun 2025 14:17:45 +0000</pubDate></item><item><title>资源分享：涂鹿Toolooz</title><link>https://Kemiaojun.github.io/post/zi-yuan-fen-xiang-%EF%BC%9A-tu-lu-Toolooz.html</link><description>## 涂鹿Toolooz：曲线文字绘制设计工具，轻松创建沿任意路径排布的精美文字
+
+　　涂鹿Toolooz，在线曲线文字绘制工具，可使文字沿任意路径排列，打造独特视觉效果。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/zi-yuan-fen-xiang-%EF%BC%9A-tu-lu-Toolooz.html</guid><pubDate>Tue, 20 May 2025 08:55:30 +0000</pubDate></item><item><title>来将 Telegram 当音乐播放器吧！</title><link>https://Kemiaojun.github.io/post/lai-jiang-%20Telegram%20-dang-yin-le-bo-fang-qi-ba-%EF%BC%81.html</link><description>## 来将 Telegram 当音乐播放器吧！（寻找音乐、即时歌词、无损音乐不失真压缩）
+
+### 步骤一：到 [@music_v1bot](https://t.me/music_v1bot) 下载歌曲，并找到歌词
+
+　　*输入指令： /search （你想要的歌名）*
+
+![](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505151340118.jpg)
+
+### 步骤二：[下载 MT 管理器（点我）](https://telegra.ph/Mtmanager-02-10-2)
+
+&gt; ***&lt;u&gt;开启：下载好的歌词文件&lt;/u&gt;***
+
+![](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505151343982.jpg)
+
+### 步骤三：最右上角、搜索\&gt;勾选正则化，替换（全部替换）
+
+&gt; *输入：\[(\d{2}:\d{2})\.\d+\]*
+&gt;
+&gt; *替换：$1*
+
+`注意：'$1'后面要加一个空格(英文)。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/lai-jiang-%20Telegram%20-dang-yin-le-bo-fang-qi-ba-%EF%BC%81.html</guid><pubDate>Fri, 16 May 2025 02:17:44 +0000</pubDate></item><item><title>DROP：便捷大文件分享与托管网站，免费享10GB空间免费部署</title><link>https://Kemiaojun.github.io/post/DROP%EF%BC%9A-bian-jie-da-wen-jian-fen-xiang-yu-tuo-guan-wang-zhan-%EF%BC%8C-mian-fei-xiang-10GB-kong-jian-mian-fei-bu-shu.html</link><description>### 网站简介
+
+DROP 是一个便捷的文件分享与托管平台，云存储工具，提供免费10GB的存储空间，支持大文件的快速上传与分享。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/DROP%EF%BC%9A-bian-jie-da-wen-jian-fen-xiang-yu-tuo-guan-wang-zhan-%EF%BC%8C-mian-fei-xiang-10GB-kong-jian-mian-fei-bu-shu.html</guid><pubDate>Sat, 10 May 2025 12:36:06 +0000</pubDate></item><item><title>tgtalk免费部署</title><link>https://Kemiaojun.github.io/post/tgtalk-mian-fei-bu-shu.html</link><description>## 部署 API
+
+访问 [Gist][1] 并获取其中所有代码
+
+&gt; 需要注意，本 API Worker 脚本基于 ChenYFan 修改，包含了本项目需要使用的功能，请勿随意更改脚本内容
+&gt; TGTalker-Frontend V2 的 API 不兼容 V1
+
+进入 [Cloudflare 仪表盘][2]
+
+选择创建应用程序 -&gt; 创建 Worker -&gt; 修改名称（部署）-&gt; 编辑代码
+
+在其中粘贴你复制的所有代码，并且修改 ChannelName 为你的频道名称，部署并访问 Worker 查看是否能正确返回内容
+
+接着你可以为你的 Worker 绑定一个域名
+
+![](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505042340004.png)
+![](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505042340138.png)
+![](https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505042340963.png)
+
+保存，然后将你绑定的域名填入配置中的 api 项即可
+
+[1]: https://gist.github.com/FloatSheep/55db67d9e8148149ebbcb0f9f6b0d901
+[2]: https://dash.cloudflare.com。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/tgtalk-mian-fei-bu-shu.html</guid><pubDate>Sat, 10 May 2025 12:32:55 +0000</pubDate></item><item><title>Waline评论在Vercel部署</title><link>https://Kemiaojun.github.io/post/Waline-ping-lun-zai-Vercel-bu-shu.html</link><description>&gt; 使用Waline评论我喜欢使用的部署方法(个人认为最简便)
+
+## 所需账号
+1. 一个Github账号
+2. 一个Vercel账号
+3. 一个leancloud账号(最好是国际服的，你有了Github难道还用大陆的吗？大陆的要备案，故在这里不阐述，末尾放原文链接)
+
+---
+## 在 leancloud 里创建数据库
+
+1. [登录](https://console.leancloud.app/login) 或 [注册](https://console.leancloud.app/register) `LeanCloud 国际版` 并进入 [控制台](https://console.leancloud.app/apps)
+
+1. 点击左上角 [创建应用](https://console.leancloud.app/apps) 并起一个你喜欢的名字 (请选择免费的开发版):
+
+   ![创建应用](https://s2.loli.net/2025/04/14/7FOYbvS8MlQXe52.png)
+
+1. 进入应用，选择左下角的 `设置` &gt; `应用 Key`。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Waline-ping-lun-zai-Vercel-bu-shu.html</guid><pubDate>Sat, 10 May 2025 12:24:40 +0000</pubDate></item><item><title>Umami博客访问统计Vercel+Cloudflare Wokers部署</title><link>https://Kemiaojun.github.io/post/Umami-bo-ke-fang-wen-tong-ji-Vercel%2BCloudflare%20Wokers-bu-shu.html</link><description>## 第一部分：Vercel+Umami
+
+1. 第一步
+    1.1 &lt;kbd&gt;Fork&lt;/kbd&gt;​[umami](https://github.com/umami-software/umami)到自己的Github仓库
+
+    ![](https://s2.loli.net/2025/04/06/c4xDVNrsBpTM8YZ.webp)
+
+    1.2 创建项目
+![](https://s2.loli.net/2025/04/06/GX9OdivuxF5pJzH.webp)
+
+2. 第二步
+
+　2.1 创建[Vercel](https://vercel.com/login)账号，这里我就省略了，因为GitHub可以直接进行授权即可。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Umami-bo-ke-fang-wen-tong-ji-Vercel%2BCloudflare%20Wokers-bu-shu.html</guid><pubDate>Sat, 10 May 2025 12:13:17 +0000</pubDate></item><item><title>Git 同步上游仓库的更新</title><link>https://Kemiaojun.github.io/post/Git%20-tong-bu-shang-you-cang-ku-de-geng-xin.html</link><description>## Git 同步上游仓库的更新
+
+　　使用一个 Github Template 创建了我自己的仓库，需要同步一下补丁更新，总不能自己手抄一遍吧，搜了一下解决方案。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Git%20-tong-bu-shang-you-cang-ku-de-geng-xin.html</guid><pubDate>Sat, 10 May 2025 12:09:52 +0000</pubDate></item><item><title>Markdown-标题语法 | 技术分享</title><link>https://Kemiaojun.github.io/post/Markdown--biao-ti-yu-fa-%20-%20-ji-shu-fen-xiang.html</link><description>&gt; 原文位置: https://markdown.com.cn/basic-syntax/headings.html
+
+# Markdown 标题语法
+要创建标题，请在单词或短语前面添加井号 (#) 。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Markdown--biao-ti-yu-fa-%20-%20-ji-shu-fen-xiang.html</guid><pubDate>Sat, 10 May 2025 12:06:51 +0000</pubDate></item><item><title>Markdown-速查表</title><link>https://Kemiaojun.github.io/post/Markdown--su-cha-biao.html</link><description>&gt; 原文位置: &lt;https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88&gt;
+
+# 总览
+
+Markdown 速查表提供了所有 **Markdown**
+语法元素的基本解释。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Markdown--su-cha-biao.html</guid><pubDate>Sat, 10 May 2025 11:56:46 +0000</pubDate></item><item><title>Hello,World</title><link>https://Kemiaojun.github.io/post/Hello%2CWorld.html</link><description>Hello,World。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Hello%2CWorld.html</guid><pubDate>Fri, 09 May 2025 07:47:40 +0000</pubDate></item><item><title>关于 - 克喵</title><link>https://Kemiaojun.github.io/about.html</link><description>&lt;p align='center'&gt;
+&lt;img src='https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=300&amp;&amp;section=header&amp;text=HI%20THERE!&amp;fontSize=90&amp;fontAlign=50&amp;fontAlignY=30&amp;desc=I%20AM%20KeMiao%20%F0%9F%91%8B&amp;descAlign=50&amp;descSize=30&amp;descAlignY=60&amp;animation=twinkling' /&gt;
+&lt;/p&gt;
+
+&lt;p align='center'&gt;
+&lt;img src='https://readme-typing-svg.demolab.com?font=Orbitron&amp;size=25&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Welcome+to+my+GitHub+Blog!;I+am+KeMiao+obsessed+with+programming!' /&gt;
+&lt;/p&gt;
+
+&lt;a href='https://blog-v3.kemeow.top/'&gt;&lt;img src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' align='right' height='275' /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+### 关于我
+
+- 🧑 一个上大三的大学生🐂🐴，在南京就读。</description><guid isPermaLink="true">https://Kemiaojun.github.io/about.html</guid><pubDate>Fri, 09 May 2025 13:03:18 +0000</pubDate></item><item><title>朋友们</title><link>https://Kemiaojun.github.io/link.html</link><description>**这里记录了一些有趣的链接。</description><guid isPermaLink="true">https://Kemiaojun.github.io/link.html</guid><pubDate>Fri, 09 May 2025 13:34:01 +0000</pubDate></item></channel></rss>

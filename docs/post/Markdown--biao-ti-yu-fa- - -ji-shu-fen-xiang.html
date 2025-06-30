@@ -10,13 +10,19 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="Hello,World。">
-<meta property="og:title" content="Hello,World">
-<meta property="og:description" content="Hello,World。">
+<meta name="description" content="> 原文位置: https://markdown.com.cn/basic-syntax/headings.html
+
+# Markdown 标题语法
+要创建标题，请在单词或短语前面添加井号 (#) 。">
+<meta property="og:title" content="Markdown-标题语法 | 技术分享">
+<meta property="og:description" content="> 原文位置: https://markdown.com.cn/basic-syntax/headings.html
+
+# Markdown 标题语法
+要创建标题，请在单词或短语前面添加井号 (#) 。">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://Kemiaojun.github.io/post/Hello%2CWorld.html">
+<meta property="og:url" content="https://Kemiaojun.github.io/post/Markdown--biao-ti-yu-fa-%20-%20-ji-shu-fen-xiang.html">
 <meta property="og:image" content="https://s2.loli.net/2025/04/20/V8zWaEoxP5msqNQ.jpg">
-<title>Hello,World</title>
+<title>Markdown-标题语法 | 技术分享</title>
 
 
 
@@ -49,7 +55,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 <body>
     <div id="header">
-<h1 class="postTitle">Hello,World</h1>
+<h1 class="postTitle">Markdown-标题语法 | 技术分享</h1>
 <div class="title-right">
     <a href="https://Kemiaojun.github.io" id="buttonHome" class="btn btn-invisible circle" title="首页">
         <svg class="octicon" width="16" height="16">
@@ -57,7 +63,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         </svg>
     </a>
     
-    <a href="https://github.com/Kemiaojun/Kemiaojun.github.io/issues/1" target="_blank" class="btn btn-invisible circle" title="Issue">
+    <a href="https://github.com/Kemiaojun/Kemiaojun.github.io/issues/5" target="_blank" class="btn btn-invisible circle" title="Issue">
         <svg class="octicon" width="16" height="16">
             <path id="pathIssue" fill-rule="evenodd"></path>
         </svg>
@@ -73,7 +79,91 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"><p>Hello,World</p></div>
+<div class="markdown-body" id="postBody"><blockquote>
+<p>原文位置: <a href="https://markdown.com.cn/basic-syntax/headings.html" rel="nofollow">https://markdown.com.cn/basic-syntax/headings.html</a></p>
+</blockquote>
+<h1>Markdown 标题语法</h1>
+<p>要创建标题，请在单词或短语前面添加井号 (#) 。<code class="notranslate">#</code> 的数量代表了标题的级别。例如，添加三个 <code class="notranslate">#</code> 表示创建一个三级标题 (<code class="notranslate">&lt;h3&gt;</code>) (例如：<code class="notranslate">### My Header</code>)。</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Markdown语法</th>
+<th>HTML</th>
+<th>预览效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code class="notranslate"># Heading level 1</code></td>
+<td>&lt;h1&gt;Heading level 1&lt;/h1&gt;</td>
+<td><h1>Heading level 1</h1></td>
+</tr>
+<tr>
+<td><code class="notranslate">## Heading level 2</code></td>
+<td>&lt;h2&gt;Heading level 1&lt;/h2&gt;</td>
+<td><h2>Heading level 2</h2></td>
+</tr>
+<tr>
+<td><code class="notranslate">### Heading level 3</code></td>
+<td>&lt;h3&gt;Heading level 1&lt;/h3&gt;</td>
+<td><h3>Heading level 3</h3></td>
+</tr>
+<tr>
+<td><code class="notranslate">#### Heading level 4</code></td>
+<td>&lt;h4&gt;Heading level 1&lt;/h4&gt;</td>
+<td><h4>Heading level 4</h4></td>
+</tr>
+<tr>
+<td><code class="notranslate">##### Heading level 5</code></td>
+<td>&lt;h5&gt;Heading level 1&lt;/h5&gt;</td>
+<td><h5>Heading level 5</h5></td>
+</tr>
+<tr>
+<td><code class="notranslate">###### Heading level 6</code></td>
+<td>&lt;h6&gt;Heading level 1&lt;/h6&gt;</td>
+<td><h6>Heading level 6</h6></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>可选语法</h2>
+<p>还可以在文本下方添加任意数量的 == 号来标识一级标题，或者 -- 号来标识二级标题。</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Markdown语法</th>
+<th>HTML</th>
+<th>预览效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code class="notranslate">Heading level 1</code><br> <code class="notranslate">===============</code></td>
+<td>&lt;h1&gt;Heading level 1&lt;/h1&gt;</td>
+<td><h1>Heading level 1</h1></td>
+</tr>
+<tr>
+<td><code class="notranslate">Heading level 2</code><br><code class="notranslate">---------------</code></td>
+<td>&lt;h2&gt;Heading level 2&lt;/h2&gt;</td>
+<td><h2>Heading level 2</h2></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>最佳实践</h2>
+<p>不同的 <strong>Markdown</strong> 应用程序处理 <code class="notranslate">#</code> 和标题之间的空格方式并不一致。为了兼容考虑，请用一个空格在 <code class="notranslate">#</code> 和标题之间进行分隔。</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>✅  Do this</th>
+<th>❌  Don't do this</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code class="notranslate"># Here's a Heading</code></td>
+<td><code class="notranslate">#Here's a Heading</code></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table></div>
 <div style="font-size:small;margin-top:8px;float:right;">转载请注明出处</div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
