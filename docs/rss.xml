@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cn.cravatar.com/avatar/1F6C8947D35A8186A1647009BA8BC5F2?size=256</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Fri, 18 Jul 2025 02:35:19 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>Markdown 强调语法</title><link>https://Kemiaojun.github.io/post/Markdown%20-qiang-diao-yu-fa.html</link><description>&gt; 原文链接: https://markdown.com.cn/basic-syntax/emphasis.html
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵落阁</title><link>https://Kemiaojun.github.io</link><description>克喵的博客</description><copyright>喵落阁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cn.cravatar.com/avatar/1F6C8947D35A8186A1647009BA8BC5F2?size=256</url><title>avatar</title><link>https://Kemiaojun.github.io</link></image><lastBuildDate>Wed, 20 Aug 2025 11:29:47 +0000</lastBuildDate><managingEditor>喵落阁</managingEditor><ttl>60</ttl><webMaster>喵落阁</webMaster><item><title>Hexo-备忘</title><link>https://Kemiaojun.github.io/post/Hexo--bei-wang.html</link><description># Hexo 备忘
+
+## 我的配置
+1. **Hexo 版本**: hexo-cli: 4.3.2, hexo: 7.3.0(当前最新)
+2. **Node.js 版本**: 22.16.0
+3. **Git 版本**: 2.47.0.sindows.2
+4. **PNPM 版本**: 10.12.4
+5. **Windows 版本**: 11
+
+## 安装 Node.js
+
+1. 在 [官网](https://nodejs.org/en/download/) 安装 LTS 版本，电脑一般来说内存足够直接在 C 盘即可，当然，换路径也可以，我反正正常下载换路径，没什么问题。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Hexo--bei-wang.html</guid><pubDate>Wed, 20 Aug 2025 11:29:17 +0000</pubDate></item><item><title>Markdown 强调语法</title><link>https://Kemiaojun.github.io/post/Markdown%20-qiang-diao-yu-fa.html</link><description>&gt; 原文链接: https://markdown.com.cn/basic-syntax/emphasis.html
 
 ## Markdown 强调语法
 通过将文本设置为粗体或斜体来强调其重要性。</description><guid isPermaLink="true">https://Kemiaojun.github.io/post/Markdown%20-qiang-diao-yu-fa.html</guid><pubDate>Fri, 18 Jul 2025 02:34:54 +0000</pubDate></item><item><title>Markdown 换行语法</title><link>https://Kemiaojun.github.io/post/Markdown%20-huan-xing-yu-fa.html</link><description>
